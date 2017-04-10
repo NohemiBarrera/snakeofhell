@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #b847c2;
+  text-align: center;
+}
+
+#limites{
+  margin:auto;
+  width:500px; 
+  height:500px;
+  position:relative;
+  background:#4752c2;
+}
+
+#vibora{
+  border:0px;
+  position:absolute;
+  width:100px;
+  height:100px;
+  background:#8fc247;
+  margin-left: 200px;
+  margin-top: 200px;
+}
